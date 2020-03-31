@@ -164,14 +164,16 @@ Esta sección excluye los diferentes archivos temporales creados por los tres si
 
 
 
+
 - **PUNTO 2**
 
 - **¿ A que se debe que los apartados b) y c) tengan el mismo resultado?**
 
-Ambos dan el mismo resultado porque lo que contiene el puntero es la dirección de memoria de la variable apuntada.
+Un puntero almacena la dirección de memoria de la variable apuntada, por lo tanto la dirección de memoria almacenada por el puntero es la misma que la dirección en la que se ubica la variable. 
 
-- **¿ Qué obtiene en el apartado d) ?**
+- **¿Qué obtiene en el apartado d) ? ¿es igual a los anteriores? ¿por
+qué?**
 
-Obtengo la dirección de memoria del puntero 0x7fffa38d3990.
+Obtengo la dirección de memoria del punter. No es igual a las anteriores, porque se esta mostrando la ubicación física del puntero y no el de la variable apuntada.
 
-- **¿ 
+
