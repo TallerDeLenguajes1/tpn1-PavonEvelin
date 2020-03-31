@@ -160,3 +160,18 @@ Si utilizas un editor diferente, busca su configuración recomendada en los ejem
 **Sistemas Operativos**
 
 Esta sección excluye los diferentes archivos temporales creados por los tres sistemas operativos más populares. Recuerda que es posible que tu aplicación se ejecute en diferentes sistemas operativos, así que no te quedes sólo con la configuración del sistema operativo que utilices en local.
+
+
+
+
+- **PUNTO 2**
+
+- **¿ A que se debe que los apartados b) y c) tengan el mismo resultado?**
+
+Ambos dan el mismo resultado porque lo que contiene el puntero es la dirección de memoria de la variable apuntada.
+
+- **¿ Qué obtiene en el apartado d) ?**
+
+Obtengo la dirección de memoria del puntero 0x7fffa38d3990.
+
+- **¿ 
